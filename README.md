@@ -1,4 +1,5 @@
 # Professional Data Analytics Services
+# Professional Data Analytics Services
 
 ![fxmr Logo](assets/fxmr-logo.png)
 
@@ -76,7 +77,24 @@ Retail & E-commerce • Finance & Banking • Healthcare • Manufacturing • T
 
 ## 📋 How It Works
 
-Visit the [interactive website](https://fmunoz333.github.io/data-analytics-services) to see the complete process timeline.
+**1. Initial Consultation (FREE!)**
+- Share your project requirements via email or LinkedIn message
+- I'll review your needs and confirm which package fits best
+
+**2. Project Agreement**
+- Receive a detailed project scope document outlining deliverables, timeline, and payment terms
+
+**3. Data Submission**
+- Securely share your data files via email, cloud storage, or database access (as appropriate)
+
+**4. Development & Analysis**
+- I'll work on your project, providing progress updates at key milestones
+
+**5. Delivery & Review**
+- Receive your complete deliverables with all documentation and tutorials
+
+**6. Revisions (If Needed)**
+- One round of minor revisions included in all packages to ensure your satisfaction
 
 ## 💼 Why Work With Me?
 
