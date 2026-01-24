@@ -14,8 +14,6 @@ Click the link below to view the interactive, professional Data Analytics Servic
 
 ***
 
----
-
 ## 🎯 About
 
 I'm Fernando Muñoz, an experienced data analyst helping businesses make informed decisions through comprehensive data analysis, visualization, and reporting. Whether you need quick insights from messy data or a complete analytics solution, I offer flexible packages tailored to your needs.
@@ -145,3 +143,4 @@ A: Yes, I'm bilingual and can handle projects in both English and Spanish.
 ---
 
 *Last Updated: January 2026*
+
