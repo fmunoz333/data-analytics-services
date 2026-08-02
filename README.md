@@ -10,7 +10,7 @@ Transform your data into actionable insights with professional analytics service
 
 Click the link below to view the interactive, professional Data Analytics Services Website, deployed directly from this repository.
 
-### [🌐 **View Professional Services Portfolio** 🌐](https://fmunoz333.github.io/data-analytics-services/)
+### [🌐 **View Professional Services Portfolio** 🌐](https://fmunoz333.github.io/professional-services/)
 
 ***
 
